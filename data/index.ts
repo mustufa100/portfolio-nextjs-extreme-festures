@@ -1,5 +1,5 @@
 export const navItems = [
-    { name: "Home", link: "#" },
+    { name: "Home", link: "/" },
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
     { name: "Testimonials", link: "#testimonials" },
@@ -206,6 +206,7 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link: "https://github.com/mustufa100",
     },
     // {
     //   id: 2,
@@ -214,5 +215,6 @@ export const navItems = [
     {
       id: 2,
       img: "/link.svg",
+      link: "https://www.linkedin.com/in/mustufa-naqvi-b023581b4/",
     },
   ];
